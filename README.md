@@ -1,3 +1,3 @@
-<h1>LyntrBlocking</h1>
-Are you on a lyntr fork and you find someone annoying? Well now you can block them!
+# LyntrBlocking
+### Are you tired of a specific person? Do you wish there was just a block feature? Well wish no more!
 LyntrBlocking is a [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/) script that allows you to block people on lyntr sites.
